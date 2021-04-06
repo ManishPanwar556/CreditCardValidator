@@ -1,2 +1,2 @@
 # CreditCardValidator
-[Apk Link](https://drive.google.com/file/d/1W_R9Z4B2Wvuy6U2DSdOLaQUZarRUmBNd/view?usp=sharing)
+[Build with Apk Link](https://github.com/ManishPanwar556/CreditCardValidator/blob/master/app/build/outputs/apk/debug/app-debug.apk)
