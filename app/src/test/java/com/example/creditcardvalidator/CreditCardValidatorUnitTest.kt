@@ -10,7 +10,7 @@ import org.junit.Assert.*
  *
  * See [testing documentation](http://d.android.com/tools/testing).
  */
-class ExampleUnitTest {
+class CreditCardValidatorUnitTest {
     @Test
     fun test_inValidCardNumber() {
         val res = CreditCardUtil.checkCardValidation("4111111111111121")
