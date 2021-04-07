@@ -1,0 +1,4 @@
+com/example/creditcardvalidator/databinding/ActivityMainBinding.java
+ com.example.creditcardvalidator.databinding.ActivityMainBinding
+com/example/creditcardvalidator/BuildConfig.java
+ com.example.creditcardvalidator.BuildConfig
